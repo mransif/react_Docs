@@ -9,7 +9,7 @@ function Foreground() {
         setData([
             {
                 desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-                fileSize: "69mb",
+                fileSize: "6mb",
                 close: false,
                 tagDetails: {
                     isOpen: false,
@@ -19,7 +19,7 @@ function Foreground() {
             },
             {
                 desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-                fileSize: "69mb",
+                fileSize: "9mb",
                 close: false,
                 tagDetails: {
                     isOpen: false,
@@ -29,7 +29,7 @@ function Foreground() {
             },
             {
                 desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-                fileSize: "69mb",
+                fileSize: "60mb",
                 close: false,
                 tagDetails: {
                     isOpen: false,
