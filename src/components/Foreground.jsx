@@ -8,7 +8,7 @@ function Foreground() {
     useEffect(() => {
         setData([
             {
-                desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+                desc: "File 1.",
                 fileSize: "6mb",
                 close: false,
                 tagDetails: {
@@ -18,7 +18,7 @@ function Foreground() {
                 },
             },
             {
-                desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+                desc: "File 2.",
                 fileSize: "9mb",
                 close: false,
                 tagDetails: {
@@ -28,7 +28,7 @@ function Foreground() {
                 },
             },
             {
-                desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+                desc: "File 3.",
                 fileSize: "60mb",
                 close: false,
                 tagDetails: {
